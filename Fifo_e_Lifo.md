@@ -1,0 +1,17 @@
+Fifo - First in, First out ( primeiro entra, primeiro sai ) 
+
+é como uma fila normal de impressora, o primeiro papel a ir, ele volta primeiro impressado.
+
+Entrada: A > B > C 
+Saída: A > B > C
+
+exemplo do contidiano: impressora como dito, vários papéis, e os primeiros papéis a sair são os que entraram primeiro.
+
+Lifo - Last in, First in ( último entra, primeiro sai )
+
+é como uma situação de ctrl z, que você retorna a última atividade que fez, só que só essa última atividade mostrada ela se mostra primeiro 
+
+Entrada: A > B > C
+Saída: C > B > A
+
+exemplo do contidiano: desfazer funções no crtl+z ( undo )
